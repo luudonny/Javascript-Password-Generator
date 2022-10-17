@@ -14,7 +14,7 @@ Specific Criterias include:
 
 ### Links
 
-[Link to the deployed website]()
+[Link to the deployed website](https://luudonny.github.io/Javascript-Password-Generator/)
 [Link to the code repository](https://github.com/luudonny/Javascript-Password-Generator)
 
 ## Installation
